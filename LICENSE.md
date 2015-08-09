@@ -1,4 +1,7 @@
-Copyright (c) 2015 <Your name here>
+The MIT License (MIT)
+
+Copyright (c) 2014 Teddy Bradford (for original ./Grammars/shaderlab.cson file)
+Copyright (c) 2015 Nadège Michel
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
