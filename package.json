@@ -1,5 +1,5 @@
 {
-  "name": "unity-shader.files",
+  "name": "unity-shader-files",
   "main": "./lib/unity-shader-files",
   "version": "0.1.0",
   "description": "Atom language support for Unity 3D ShaderLab .shader files",
