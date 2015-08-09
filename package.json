@@ -1,0 +1,20 @@
+{
+    "name": "language-unity-shaderlab",
+    "main": "./lib/unity-shader-files",
+    "version": "0.1.0",
+    "description": "Atom language support for Unity 3D ShaderLab .shader files",
+    "keywords": [
+        "Unity",
+        "Unity3D",
+        "Unity 3D",
+        "Shader",
+        "ShaderLab"
+    ],
+    "repository": "https://github.com/nashella/unity-shader-files",
+    "bugs": "https://github.com/nashella/unity-shader-files/issues",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "homepage": "https://github.com/nashella/unity-shader-files"
+}
