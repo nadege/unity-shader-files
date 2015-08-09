@@ -1,7 +1,7 @@
 {
     "name": "language-unity-shaderlab",
     "main": "./lib/unity-shader-files",
-    "version": "0.1.0",
+    "version": "0.0.0",
     "description": "Atom language support for Unity 3D ShaderLab .shader files",
     "keywords": [
         "Unity",
