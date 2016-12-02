@@ -13,7 +13,7 @@
 		'name': 'support.class.shaderlab'
 	}
 	{ # Cg shader section
-		'match': '\\b(CGPROGRAM|ENDCG)\\b'
+		'match': '\\b(CGPROGRAM|CGINCLUDE|ENDCG)\\b'
 		'name': 'support.class.shaderlab'
 	}
 	{ # Dependency and fallback
