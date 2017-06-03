@@ -1,3 +1,6 @@
+## 0.3.1 - First Release
+* Add a setting file. (Now `Toggle Comment` will use `// `)
+
 ## 0.3.0 - First Release
 * Add CGINCLUDE to grammar
 
